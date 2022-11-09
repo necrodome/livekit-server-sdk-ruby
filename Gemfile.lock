@@ -3,7 +3,7 @@ PATH
   specs:
     livekit-server-sdk (0.4.0)
       google-protobuf (~> 3.21.0)
-      jwt (~> 2.2.3)
+      jwt (~> 2.2)
       twirp (~> 1.9.0)
 
 GEM
@@ -35,7 +35,8 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     google-protobuf (3.21.7)
-    jwt (2.2.3)
+    google-protobuf (3.21.7-x86_64-linux)
+    jwt (2.5.0)
     method_source (1.0.0)
     multipart-post (2.2.3)
     pry (0.14.1)
